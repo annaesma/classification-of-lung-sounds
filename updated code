@@ -1,3 +1,5 @@
+clc
+clear all
 % load and  filter COPD
 %bandstop 20-150 Hz
 cd('C:\Users\User\Desktop\uni\II semester\DSP\RESPDATA\COPD'); 
