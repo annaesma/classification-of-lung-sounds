@@ -1,3 +1,2 @@
 # classification-of-lung-sounds
-This is code for classification of lung sounds using CNN's. The sound files were first segmented into 5 second files. Then spectrograms were taken. At last, a CNN was created. This code needs improvment, since accuracy is only 57.5 %.
-
+This is code for classification of lung sounds using CNN's. The sound files were first segmented into 5 second files. Sampling rate conversion and heart sound filtering was performed before feeding the spectrograms into the classifier.
